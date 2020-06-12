@@ -7,7 +7,7 @@ package Calculation;
  * @author (2018315034 정철우, 2018315038 이혜인, 2018315040 김선민) 
  * @version (2020.06.11)
  */
-public class RentalDVD
+public class Calculation
 {
     /**
      * 렌탈 DVD 할인요금을 계산하여 반환하는 메소드
