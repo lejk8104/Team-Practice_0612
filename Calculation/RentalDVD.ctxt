@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RentalDVD
+comment0.text=\r\n\ \uB80C\uD0C8\ DVD\ \uD560\uC778\uC694\uAE08\uC744\ \uACC4\uC0B0\uD558\uB294\ \uC18C\uD504\uD2B8\uC6E8\uC5B4\r\n\ \r\n\ @author\ (2018315034\ \uC815\uCCA0\uC6B0,\ 2018315038\ \uC774\uD61C\uC778,\ 2018315040\ \uAE40\uC120\uBBFC)\ \r\n\ @version\ (2020.06.11)\r\n
+comment1.params=age\ oldVideo
+comment1.target=double\ calculate(int,\ boolean)
+comment1.text=\r\n\ \uB80C\uD0C8\ DVD\ \uD560\uC778\uC694\uAE08\uC744\ \uACC4\uC0B0\uD558\uC5EC\ \uBC18\uD658\uD558\uB294\ \uBA54\uC18C\uB4DC\r\n\ \r\n\ @param\ age\ \uB098\uC774\ \r\n\ @param\ oldVideo\ \uAD6C\uC791\ \uC5EC\uBD80\ /\ true\:\ \uAD6C\uC791,\ false\:\ \uC2E0\uC791\r\n\ @return\ discountRate\ \uD560\uC778\uC694\uAE08\r\n
+numComments=2
