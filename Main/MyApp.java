@@ -5,9 +5,9 @@ import java.util.Scanner;
 /**
  * Calculation 패키지에 있는 Calculation 클래스의 메소드를 실행시키는 클래스
  * 
- * @author (이재근, 우메모토세이야 2018315056, 방대호) 
+ * @author (2015225129 이재근, 2018315021 우메모토세이야 X, 2018315021 방대호) 
  * @version (2020.06.12)
- */
+ */ 
 public class MyApp
 {
     public static void main(String[] args){

@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=MyApp
-comment0.text=\r\n\ Calculation\ \uD328\uD0A4\uC9C0\uC5D0\ \uC788\uB294\ Calculation\ \uD074\uB798\uC2A4\uC758\ \uBA54\uC18C\uB4DC\uB97C\ \uC2E4\uD589\uC2DC\uD0A4\uB294\ \uD074\uB798\uC2A4\r\n\ \r\n\ @author\ (\uC774\uC7AC\uADFC,\ \uC6B0\uBA54\uBAA8\uD1A0\uC138\uC774\uC57C\ 2018315056,\ \uBC29\uB300\uD638)\ \r\n\ @version\ (2020.06.12)\r\n
+comment0.text=\r\n\ Calculation\ \uD328\uD0A4\uC9C0\uC5D0\ \uC788\uB294\ Calculation\ \uD074\uB798\uC2A4\uC758\ \uBA54\uC18C\uB4DC\uB97C\ \uC2E4\uD589\uC2DC\uD0A4\uB294\ \uD074\uB798\uC2A4\r\n\ \r\n\ @author\ (2015225129\ \uC774\uC7AC\uADFC,\ 2018315021\ \uC6B0\uBA54\uBAA8\uD1A0\uC138\uC774\uC57C\ X,\ 2018315021\ \uBC29\uB300\uD638)\ \r\n\ @version\ (2020.06.12)\r\n
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 numComments=2
